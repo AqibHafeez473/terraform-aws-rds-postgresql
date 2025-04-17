@@ -30,3 +30,17 @@ terraform-aws-rds-postgresql/
 ├── .gitignore         → Ignored files (e.g., tfstate, secrets)
 └── README.md          → Project overview and usage guide
 
+
+# terraform-aws-rds-postgresql
+
+This repository provides Terraform configuration to deploy a PostgreSQL database on Amazon RDS.
+
+## ⚙️ How to Use
+
+**Step 1: Clone the repository**
+
+```bash
+git clone [https://github.com/AqibHafeez473/terraform-aws-rds-postgresql.git](https://github.com/AqibHafeez473/terraform-aws-rds-postgresql.git)
+cd terraform-aws-rds-postgresql
+
+
